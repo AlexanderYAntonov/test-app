@@ -1,0 +1,9 @@
+/*
+ * Public API Surface of test-lib
+ */
+export * from './lib/list.service';
+export * from './lib/border/border.module';
+export * from './lib/border.directive';
+export * from './lib/list/list.module';
+export * from './lib/list/list.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3Rlc3QtbGliL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxvQkFBb0IsQ0FBQztBQUNuQyxjQUFjLDRCQUE0QixDQUFDO0FBQzNDLGNBQWMsd0JBQXdCLENBQUM7QUFDdkMsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB0ZXN0LWxpYlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2xpc3Quc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9ib3JkZXIvYm9yZGVyLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9ib3JkZXIuZGlyZWN0aXZlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2xpc3QvbGlzdC5tb2R1bGUnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbGlzdC9saXN0LmNvbXBvbmVudCc7XG5cbiJdfQ==
